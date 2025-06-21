@@ -24,8 +24,9 @@
 
 
 
-/* Bicicleta */
+/* Bicicleta-Interna */
 @import "./bicicleta/bibicleta.css";
+@import "./bicicleta/seguro.css";
 
 
 /* Seguros */
