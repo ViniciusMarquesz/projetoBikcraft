@@ -27,6 +27,7 @@ Este projeto reproduz um site completo de uma marca de bicicletas artesanais cha
 
 - **HTML5**
 - **CSS3**
+- **JS**
 - Tipografia externa (ex: Google Fonts)
 - Organização de arquivos em pastas (`css/`, `img/`, etc.)
 
