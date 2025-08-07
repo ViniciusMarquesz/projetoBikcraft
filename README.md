@@ -42,12 +42,6 @@ Este projeto reproduz um site completo de uma marca de bicicletas artesanais cha
 
 ---
 
-## 📷 Captura de tela
-
-> (Opcional: incluir aqui uma imagem de visualização do site, caso queira que eu gere uma depois)
-
----
-
 ## 🧪 Como executar localmente
 
 1. Clone o repositório:
