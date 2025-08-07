@@ -6,8 +6,7 @@ Este projeto é um exercício prático baseado no site fictício da marca **Bikc
 
 ## 🔗 Visualização ao vivo
 
-> ⚠️ A versão no GitHub Pages está enfrentando problemas no carregamento de imagens e arquivos.  
-> Isso será corrigido em breve. Acesse mesmo assim para visualizar a estrutura geral:
+> ⚠️ A versão no GitHub Pages; Acesse para visualizar a estrutura geral:
 
 [https://viniciusmarquesz.github.io/projetoBikcraft/](https://viniciusmarquesz.github.io/projetoBikcraft/)
 
